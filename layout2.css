@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    font-family: 'Tillana', cursive;
+}
+.menu1{
+    text-align: right;
+}
+.logo{
+    width: 80% ;
+    height: auto;
+}
+.section2{
+    margin: 30px auto;
+}
+.container-fluid{
+    padding: 0;
+}
